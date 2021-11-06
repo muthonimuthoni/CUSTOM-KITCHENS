@@ -1,0 +1,11 @@
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\bin\Debug\CUSTOM KITCHEN 2.exe.config
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\bin\Debug\CUSTOM KITCHEN 2.exe
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\bin\Debug\CUSTOM KITCHEN 2.pdb
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\bin\Debug\CUSTOM KITCHEN 2.xml
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM_KITCHEN_2.Form1.resources
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM_KITCHEN_2.FrmCustomer_Detail.resources
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM_KITCHEN_2.Resources.resources
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM KITCHEN 2.vbproj.GenerateResource.Cache
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM KITCHEN 2.exe
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM KITCHEN 2.xml
+c:\users\admn\documents\visual studio 2012\Projects\CUSTOM KITCHEN 2\CUSTOM KITCHEN 2\obj\Debug\CUSTOM KITCHEN 2.pdb
